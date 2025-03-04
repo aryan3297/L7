@@ -9,5 +9,6 @@ void main()
 		{
                  printf("NO");
 		}
-
+printf(:AUB");
+printf(:HI:);
 
